@@ -19,7 +19,7 @@ OR if that does not work:
 
 How to Play:
 
-The game will start automatically once you run the script. You must enter your username to personalize the game. Then you must respond to each question by typing the appropriate number or letter and press enter. (It will guide you, and redirect if incorrect.) As the user you have to manage your initial budget of $100 to make choices about your cat’s features. Enjoy the transitions between questions and watch the credits at the end before viewing your data analysis chart at the end which details all of your spending choices and how much they cost you. Also including how much you have in your budget by the end. 
+The game will start automatically once you run the script. You must enter your username to personalize the game. Then you must respond to each question by typing the appropriate number or letters and press enter. (It will guide you, and redirect if incorrect.) As the user you have to manage your initial budget of $100 to make choices about your cat’s features. Enjoy the transitions between questions and watch the credits at the end before viewing your data analysis chart at the end which details all of your spending choices and how much they cost you. Also including how much you have in your budget by the end. 
 
 Game Features:
 
@@ -28,3 +28,6 @@ I chose binary answers for simplicity: choose between given options to spend you
 In-Game Limitations:
 
 The game currently supports only predefined answers for simplicity. The questions are kind of structured similarly and may not cover a broad range of customization due to time limitations. The script requires user input to proceed, so it cannot run on its own.
+
+CREDITS: 
+I credit Mahad Khan for reviewing my code and giving me contructive feedback on how to improve. He never coded anything on my project, just made verbal suggestions. Some of which I decided to implement in the final project that is presented to you today.
