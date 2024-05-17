@@ -147,6 +147,7 @@ def question_four_randomizer():
             print(e)
         print(' ')
 
+#in this function,I complete the advanced topic portion of the project - I added in a dataframe using pandas/pd to anaylze the data collected during the game according to the users choices. 
 def finalscreen():
     """
     Finally, this function displays the final screen with a thank you message and rolls the credits after a brief pause.
