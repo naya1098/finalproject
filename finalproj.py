@@ -33,12 +33,14 @@ def question_one():
     global money
     while True:
         try:
-            ans = input(' Q1: Would you rather pay $50 for a long hair cat (1) or $30 for a short haired (2) ? Type 1 or 2 to pick: ')
-            if ans.lower() not in ('1', '2'):
+            ans = input(' Q1: Would you rather pay $50 for a long hair cat (1) or $30 for a short haired (2) ? Type 1 or 2 to pick: ')  #first question asked to user
+            if ans.lower() not in ('1', '2'):#Check if answer is 1/2
                 raise ValueError("Please enter '1' or '2'. ")  # Redirect user to input either 1 or 2
             break
         except ValueError as e:
             print(e)
+            
+#Deducts money from the initial $100 based on the user response
 
     if ans.lower() == '1':
         print(f"Now you have a beautiful fluffy cat!")
